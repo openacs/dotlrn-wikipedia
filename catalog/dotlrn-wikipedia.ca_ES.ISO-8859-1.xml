@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="dotlrn-wikipedia" package_version="0.1d" locale="ca_ES" charset="ISO-8859-1">
+
+  <msg key="No_Found">No s'ha trobat</msg>
+  <msg key="pretty_name">Enciclopèdia</msg>
+  <msg key="entry">Terme</msg>
+  <msg key="search">Cercar</msg>
+  <msg key="goto">Anar a Enciclopèdia</msg>
+  <msg key="seefull">Tot el terme</msg>
+</message_catalog>
